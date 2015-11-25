@@ -1,12 +1,3 @@
-#!/usr/bin/env python2
-
-"""
-Minimal Example
-===============
-Generating a square wordcloud from the US constitution using default arguments.
-"""
-
-from os import path
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 
